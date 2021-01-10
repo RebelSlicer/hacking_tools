@@ -1,6 +1,0 @@
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\obj\Release\Inject.csproj.CoreCompileInputs.cache
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\bin\Release\Inject.exe.config
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\bin\Release\Inject.exe
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\bin\Release\Inject.pdb
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\obj\Release\Inject.exe
-\\192.168.49.83\visualstudio\rev_shell_1\Inject\obj\Release\Inject.pdb

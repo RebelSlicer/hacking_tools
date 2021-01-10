@@ -1,7 +1,0 @@
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\obj\x64\Release\Inject_PID.csprojAssemblyReference.cache
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\obj\x64\Release\Inject_PID.csproj.CoreCompileInputs.cache
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\bin\x64\Release\Inject_PID.exe.config
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\bin\x64\Release\Inject_PID.exe
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\bin\x64\Release\Inject_PID.pdb
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\obj\x64\Release\Inject_PID.exe
-\\192.168.49.83\visualstudio\rev_shell_1\Inject_PID\obj\x64\Release\Inject_PID.pdb
