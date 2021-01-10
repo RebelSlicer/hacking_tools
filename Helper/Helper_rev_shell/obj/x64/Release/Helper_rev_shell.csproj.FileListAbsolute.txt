@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\bin\x64\Release\Helper_rev_shell.exe.config
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\bin\x64\Release\Helper_rev_shell.exe
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\bin\x64\Release\Helper_rev_shell.pdb
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\obj\x64\Release\Helper_rev_shell.csproj.CoreCompileInputs.cache
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\obj\x64\Release\Helper_rev_shell.exe
+\\192.168.49.83\visualstudio\Helper\Helper_rev_shell\obj\x64\Release\Helper_rev_shell.pdb

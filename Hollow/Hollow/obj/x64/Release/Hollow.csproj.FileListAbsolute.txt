@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\Hollow\Hollow\obj\x64\Release\Hollow.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\Hollow\Hollow\obj\x64\Release\Hollow.csproj.CoreCompileInputs.cache
+\\192.168.49.83\visualstudio\Hollow\Hollow\bin\x64\Release\Hollow.exe.config
+\\192.168.49.83\visualstudio\Hollow\Hollow\bin\x64\Release\Hollow.exe
+\\192.168.49.83\visualstudio\Hollow\Hollow\bin\x64\Release\Hollow.pdb
+\\192.168.49.83\visualstudio\Hollow\Hollow\obj\x64\Release\Hollow.exe
+\\192.168.49.83\visualstudio\Hollow\Hollow\obj\x64\Release\Hollow.pdb

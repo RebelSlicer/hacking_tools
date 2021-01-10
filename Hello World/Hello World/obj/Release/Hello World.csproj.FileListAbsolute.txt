@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\Hello World\Hello World\bin\Release\Hello World.exe.config
+\\192.168.49.83\visualstudio\Hello World\Hello World\bin\Release\Hello World.exe
+\\192.168.49.83\visualstudio\Hello World\Hello World\bin\Release\Hello World.pdb
+\\192.168.49.83\visualstudio\Hello World\Hello World\obj\Release\Hello World.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\Hello World\Hello World\obj\Release\Hello World.csproj.CoreCompileInputs.cache
+\\192.168.49.83\visualstudio\Hello World\Hello World\obj\Release\Hello World.exe
+\\192.168.49.83\visualstudio\Hello World\Hello World\obj\Release\Hello World.pdb
