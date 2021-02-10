@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\bin\x64\Release\SQL_SMB.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\bin\x64\Release\SQL_SMB.exe
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\bin\x64\Release\SQL_SMB.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\obj\x64\Release\SQL_SMB.exe
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\obj\x64\Release\SQL_SMB.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_SMB\obj\x64\Release\SQL_SMB.csprojAssemblyReference.cache

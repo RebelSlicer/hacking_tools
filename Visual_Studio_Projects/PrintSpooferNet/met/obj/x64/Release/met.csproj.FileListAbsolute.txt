@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\bin\x64\Release\met.exe.config
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\bin\x64\Release\met.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\bin\x64\Release\met.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\obj\x64\Release\met.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\obj\x64\Release\met.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\obj\x64\Release\met.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\met\obj\x64\Release\met.csproj.CoreCompileInputs.cache

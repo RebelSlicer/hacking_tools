@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\SQL\cleanup\bin\x64\Release\cleanup.exe.config
+\\192.168.49.83\visualstudio\SQL\cleanup\bin\x64\Release\cleanup.exe
+\\192.168.49.83\visualstudio\SQL\cleanup\bin\x64\Release\cleanup.pdb
+\\192.168.49.83\visualstudio\SQL\cleanup\obj\x64\Release\cleanup.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\cleanup\obj\x64\Release\cleanup.exe
+\\192.168.49.83\visualstudio\SQL\cleanup\obj\x64\Release\cleanup.pdb

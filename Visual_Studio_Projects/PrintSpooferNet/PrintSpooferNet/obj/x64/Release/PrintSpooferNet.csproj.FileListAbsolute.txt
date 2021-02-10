@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe.config
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\bin\x64\Release\PrintSpooferNet.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpooferNet\obj\x64\Release\PrintSpooferNet.csprojAssemblyReference.cache

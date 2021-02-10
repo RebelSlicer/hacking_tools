@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\obj\x64\Release\PrintSpoofer_PrivEsc.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\bin\x64\Release\PrintSpoofer_PrivEsc.exe.config
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\bin\x64\Release\PrintSpoofer_PrivEsc.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\bin\x64\Release\PrintSpoofer_PrivEsc.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\obj\x64\Release\PrintSpoofer_PrivEsc.exe
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\obj\x64\Release\PrintSpoofer_PrivEsc.pdb
+\\192.168.49.83\visualstudio\PrintSpooferNet\PrintSpoofer_PrivEsc\obj\x64\Release\PrintSpoofer_PrivEsc.csproj.CoreCompileInputs.cache

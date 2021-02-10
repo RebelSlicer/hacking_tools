@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\bin\x64\Release\MiniDump.exe.config
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\bin\x64\Release\MiniDump.exe
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\bin\x64\Release\MiniDump.pdb
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\obj\x64\Release\MiniDump.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\obj\x64\Release\MiniDump.exe
+\\192.168.49.83\visualstudio\MiniDump\MiniDump\obj\x64\Release\MiniDump.pdb

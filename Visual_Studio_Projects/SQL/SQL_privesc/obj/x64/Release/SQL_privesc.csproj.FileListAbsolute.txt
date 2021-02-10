@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\bin\x64\Release\SQL_privesc.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\bin\x64\Release\SQL_privesc.exe
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\bin\x64\Release\SQL_privesc.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\obj\x64\Release\SQL_privesc.exe
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\obj\x64\Release\SQL_privesc.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_privesc\obj\x64\Release\SQL_privesc.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+\\192.168.49.83\visualstudio\SQL\execCmd\bin\x64\Release\execCmd.dll
+\\192.168.49.83\visualstudio\SQL\execCmd\bin\x64\Release\execCmd.pdb
+\\192.168.49.83\visualstudio\SQL\execCmd\obj\x64\Release\execCmd.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\execCmd\obj\x64\Release\execCmd.dll
+\\192.168.49.83\visualstudio\SQL\execCmd\obj\x64\Release\execCmd.pdb

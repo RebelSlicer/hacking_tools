@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\bin\Debug\DLL_Injection.exe.config
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\bin\Debug\DLL_Injection.exe
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\bin\Debug\DLL_Injection.pdb
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\obj\Debug\DLL_Injection.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\obj\Debug\DLL_Injection.csproj.CoreCompileInputs.cache
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\obj\Debug\DLL_Injection.exe
+\\192.168.49.83\visualstudio\DLL_Injection\DLL_Injection\obj\Debug\DLL_Injection.pdb

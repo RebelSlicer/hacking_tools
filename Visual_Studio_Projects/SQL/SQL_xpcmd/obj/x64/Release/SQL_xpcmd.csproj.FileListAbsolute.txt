@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\bin\x64\Release\SQL_xpcmd.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\bin\x64\Release\SQL_xpcmd.exe
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\bin\x64\Release\SQL_xpcmd.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\obj\x64\Release\SQL_xpcmd.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\obj\x64\Release\SQL_xpcmd.exe
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\obj\x64\Release\SQL_xpcmd.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_xpcmd\obj\x64\Release\SQL_xpcmd.csproj.CoreCompileInputs.cache

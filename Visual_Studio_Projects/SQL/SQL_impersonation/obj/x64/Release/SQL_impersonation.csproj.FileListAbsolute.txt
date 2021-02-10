@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\bin\x64\Release\SQL_impersonation.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\bin\x64\Release\SQL_impersonation.exe
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\bin\x64\Release\SQL_impersonation.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\obj\x64\Release\SQL_impersonation.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\obj\x64\Release\SQL_impersonation.exe
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\obj\x64\Release\SQL_impersonation.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_impersonation\obj\x64\Release\SQL_impersonation.csproj.CoreCompileInputs.cache

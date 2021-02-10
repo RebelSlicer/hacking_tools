@@ -1,0 +1,6 @@
+\\192.168.49.83\visualstudio\SQL\SQL_login\bin\x64\Release\SQL_login.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_login\bin\x64\Release\SQL_login.exe
+\\192.168.49.83\visualstudio\SQL\SQL_login\bin\x64\Release\SQL_login.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_login\obj\x64\Release\SQL_login.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\SQL_login\obj\x64\Release\SQL_login.exe
+\\192.168.49.83\visualstudio\SQL\SQL_login\obj\x64\Release\SQL_login.pdb

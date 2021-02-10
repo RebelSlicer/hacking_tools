@@ -1,0 +1,7 @@
+\\192.168.49.83\visualstudio\SQL\SQL_link\bin\x64\Release\SQL_link.exe.config
+\\192.168.49.83\visualstudio\SQL\SQL_link\bin\x64\Release\SQL_link.exe
+\\192.168.49.83\visualstudio\SQL\SQL_link\bin\x64\Release\SQL_link.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_link\obj\x64\Release\SQL_link.exe
+\\192.168.49.83\visualstudio\SQL\SQL_link\obj\x64\Release\SQL_link.pdb
+\\192.168.49.83\visualstudio\SQL\SQL_link\obj\x64\Release\SQL_link.csprojAssemblyReference.cache
+\\192.168.49.83\visualstudio\SQL\SQL_link\obj\x64\Release\SQL_link.csproj.CoreCompileInputs.cache
